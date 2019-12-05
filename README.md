@@ -2,6 +2,12 @@
 
 ## Problem Explained
 
+### Observation
+
+### Existing Soluions
+
+### However...
+
 ## Design Rationale
 
 ## Our Solution
