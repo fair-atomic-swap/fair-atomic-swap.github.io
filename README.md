@@ -12,6 +12,8 @@ We prove that an Atomic Swap is equivalent to an American Call Option without th
 
 We use the conventional Cox-Ross-Rubinstein option pricing model in Finance to estimate the premium, and show that the estimated premium for cryptocurrencies is 2% ~ 3% of the asset value, while the premium for stocks and fiat currencies is approximately 0.3%.
 
+![observation](observation.png)
+
 ### Existing Soluions
 
 + To make the Atomic Swap costly by charging setting up HTLCs, or increasing the transaction fee of HTLCs;
