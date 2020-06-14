@@ -2,3 +2,4 @@
 * [Design Rationale](#design-rationale)
 * [Our Solution](#our-solution)
 * [Outcomes](#outcomes)
+* [About Us](#about-us)
