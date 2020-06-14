@@ -43,6 +43,6 @@ Unfortunately, they either have security flaws or significantly reduce the usabi
 + We propose [EIP-2266](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2266.md).
 
 ## About Us
-+ [Runchao Han](runchao.han@monash.edu) (Monash University and CSIRO-Data61)
-+ [Haoyu Lin](chris.haoyul@gmail.com)
-+ [Jiangshan Yu](jiangshan.yu@monash.edu) (Monash University)
++ [Runchao Han](http://runchao.rocks/) (Monash University and CSIRO-Data61)
++ [Haoyu Lin](https://chrislinn.ink/)
++ [Jiangshan Yu](https://www.jiangshanyu.com/) (Monash University)
