@@ -44,5 +44,5 @@ Unfortunately, they either have security flaws or significantly reduce the usabi
 
 ## About Us
 + [Runchao Han](https://runchao.rocks/) (Monash University and CSIRO-Data61)
-+ [Haoyu Lin](https://chrislinn.ink/) (Bytom Foundation and KZen Research)
++ [Haoyu Lin](https://chrislinn.ink/)
 + [Jiangshan Yu](https://www.jiangshanyu.com/) (Monash University)
